@@ -1,0 +1,133 @@
+{
+    "version": "auto-py-to-exe-configuration_v1",
+    "pyinstallerOptions": [
+        {
+            "optionDest": "noconfirm",
+            "value": true
+        },
+        {
+            "optionDest": "filenames",
+            "value": "C:/Users/R2d2c/OneDrive/Documentos/Visual Studio Code/Small-Proyects/Python/Template Automate (2.0.0)/src/MainCMD.py"
+        },
+        {
+            "optionDest": "onefile",
+            "value": false
+        },
+        {
+            "optionDest": "console",
+            "value": true
+        },
+        {
+            "optionDest": "icon_file",
+            "value": "C:/Users/R2d2c/OneDrive/Documentos/Visual Studio Code/Small-Proyects/Python/Template Automate (2.0.0)/src/icon/crown.ico"
+        },
+        {
+            "optionDest": "name",
+            "value": "Template Automate (2.0.0)"
+        },
+        {
+            "optionDest": "clean_build",
+            "value": false
+        },
+        {
+            "optionDest": "strip",
+            "value": false
+        },
+        {
+            "optionDest": "noupx",
+            "value": false
+        },
+        {
+            "optionDest": "disable_windowed_traceback",
+            "value": false
+        },
+        {
+            "optionDest": "uac_admin",
+            "value": false
+        },
+        {
+            "optionDest": "uac_uiaccess",
+            "value": false
+        },
+        {
+            "optionDest": "argv_emulation",
+            "value": false
+        },
+        {
+            "optionDest": "bootloader_ignore_signals",
+            "value": false
+        },
+        {
+            "optionDest": "datas",
+            "value": "C:/Users/R2d2c/OneDrive/Documentos/Visual Studio Code/Small-Proyects/Python/Template Automate (2.0.0)/src/icon/crown.ico;."
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "os"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "sys"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "pathlib"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "xlwings"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "paltform"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "psutil"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "subprocess"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "csv"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "time"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "datetime"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "docx"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "docxtpl"
+        },
+        {
+            "optionDest": "hiddenimports",
+            "value": "theading"
+        },
+        {
+            "optionDest": "collect_submodules",
+            "value": "datetime"
+        },
+        {
+            "optionDest": "collect_submodules",
+            "value": "Document"
+        },
+        {
+            "optionDest": "collect_submodules",
+            "value": "DocxTemplate"
+        }
+    ],
+    "nonPyinstallerOptions": {
+        "increaseRecursionLimit": true,
+        "manualArguments": ""
+    }
+}
